@@ -1,0 +1,11 @@
+2021-11-30T17:39:36.050Z /root/SubQl/subqlHelloWorld/node_modules/@subql/common/node_modules/@polkadot/util/index.js:3
+2021-11-30T17:39:36.050Z import "./detectPackage.js";
+2021-11-30T17:39:36.050Z        ^^^^^^^^^^^^^^^^^^^^
+2021-11-30T17:39:36.050Z SyntaxError: Unexpected string
+2021-11-30T17:39:36.050Z     at Object.<anonymous> (~/SubQl/subqlHelloWorld/node_modules/@subql/common/dist/types/supported/Boolean.js:6:16)
+2021-11-30T18:22:36.699Z Error: Directory subqlHelloWorld exists, try another project name
+2021-11-30T18:22:36.699Z     at Init.run (/usr/local/lib/node_modules/@subql/cli/lib/commands/init.js:21:19)
+2021-11-30T18:22:36.699Z     at Init._run (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)
+2021-11-30T18:22:50.084Z Error: Directory HelloWorld exists, try another project name
+2021-11-30T18:22:50.084Z     at Init.run (/usr/local/lib/node_modules/@subql/cli/lib/commands/init.js:21:19)
+2021-11-30T18:22:50.084Z     at Init._run (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)
